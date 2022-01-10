@@ -1,0 +1,23 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "To learn some cool frontend automation",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfaw2022/cypress-test.git"
+  },
+  "author": "Faw Industries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfaw2022/cypress-test/issues"
+  },
+  "homepage": "https://github.com/jfaw2022/cypress-test#readme"
+}
